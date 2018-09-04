@@ -8,7 +8,7 @@ import (
 )
 
 func linkScrape() {
-    res, err := http.Get("http://jonathanmh.com")
+    res, err := http.Get("https://en.wikipedia.org/wiki/Mineu_River")
     if err != nil {
         log.Fatal(err)
     }
