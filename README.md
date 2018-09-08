@@ -1,4 +1,4 @@
-# Web_scrapers
+# NBA_Trades
 
 Implemented a Web Scraper in using Go to get transaction data from ESPN on NBA teams.
 Used the golang.org/x/net/html package for scraping through Wikipedia and ESPN websites.
